@@ -1,0 +1,65 @@
+==========================================================
+       E-COMMERCE SALES ANALYSIS — FULL REPORT
+       Generated : 28 Jun 2026  00:02
+==========================================================
+
+──────────────────────────────────────────────────────────
+  EXECUTIVE SUMMARY
+──────────────────────────────────────────────────────────
+  Total Revenue         ₹  211,425.83
+  Total Orders                    100
+  Average Order Value   ₹    2,114.26
+  Total Units Sold                302
+  Best Month             May 2025
+  Worst Month            Jan 2025
+  Top Category           Electronics
+
+──────────────────────────────────────────────────────────
+  REVENUE BREAKDOWN BY CATEGORY
+──────────────────────────────────────────────────────────
+  Category                    Revenue   Share  Orders  Units
+  ----------------------------------------------------------
+  Electronics            ₹  99,212.97   46.9%      23     76
+  Home & Garden          ₹  37,211.81   17.6%      17     50
+  Sports                 ₹  33,023.99   15.6%      16     57
+  Clothing               ₹  32,485.54   15.4%      24     58
+  Books                  ₹   9,491.52    4.5%      20     61
+
+──────────────────────────────────────────────────────────
+  MONTHLY REVENUE
+──────────────────────────────────────────────────────────
+  Month               Revenue   Orders
+  ----------------------------------------------------------
+  Jan 2025       ₹   7,532.15        6
+  Feb 2025       ₹  17,136.49        9
+  Mar 2025       ₹  25,748.19       11
+  Apr 2025       ₹  27,534.11       11
+  May 2025       ₹  29,692.29        9
+  Jun 2025       ₹  11,910.33        6
+  Jul 2025       ₹  15,031.21        8
+  Aug 2025       ₹  15,466.05        7
+  Sep 2025       ₹  11,279.46        6
+  Oct 2025       ₹  22,254.72       11
+  Nov 2025       ₹  13,935.08        9
+  Dec 2025       ₹  13,905.75        7
+
+──────────────────────────────────────────────────────────
+  KEY INSIGHTS
+──────────────────────────────────────────────────────────
+  1. Electronics generates the highest revenue across all categories.
+  2. Peak sales month was May 2025 — ideal for promotions.
+  3. Average order value of ₹2,114.26 reflects mid-to-premium spending.
+  4. All 5 categories are active, reducing revenue concentration risk.
+
+
+──────────────────────────────────────────────────────────
+  RECOMMENDATIONS
+──────────────────────────────────────────────────────────
+  • Increase inventory for Electronics ahead of peak season.
+  • Run discount campaigns during Jan 2025 to lift slow-month sales.
+  • Introduce product bundles to raise average order value.
+  • Analyse low-performing categories for potential discontinuation.
+
+==========================================================
+  Visualizations saved in  visualizations/
+==========================================================
